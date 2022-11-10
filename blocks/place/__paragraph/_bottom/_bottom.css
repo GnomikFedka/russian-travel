@@ -1,0 +1,10 @@
+.place__paragraph_bottom {
+    grid-area: place__paragraph_bottom;
+    margin-top: 3px;
+}
+
+@media screen and (max-width: 1024px) {
+    .place__paragraph_bottom {
+        margin-top: 1px;
+    }
+}

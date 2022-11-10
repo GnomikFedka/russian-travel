@@ -1,0 +1,9 @@
+.intro__title {
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  font-family: 'Inter-Black';
+  font-size: 54px;
+  line-height: 58px;
+  text-align: left;
+}

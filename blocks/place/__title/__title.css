@@ -1,0 +1,35 @@
+.place__title {
+  grid-area: place__title;
+  width: 460px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  text-rendering: optimizeLegibility;
+  font-family: 'Inter-Black';
+  font-size: 72px;
+  line-height: 76px;
+  text-align: left;
+  align-self: flex-end;
+}
+
+@media screen and (max-width: 1280px) {
+  .place__title {
+    max-width: 440px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+    max-width: 340px;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    max-width: 288px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}

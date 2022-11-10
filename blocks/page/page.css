@@ -1,0 +1,11 @@
+.page {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #E5E5E5;
+  margin: 0;
+  padding: 0;
+  width: cover;
+  height: cover;
+  color: #FFFFFF;
+}
