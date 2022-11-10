@@ -3,7 +3,8 @@
     margin: 32px auto 245px auto;
     padding: 0;
     text-rendering: optimizeLegibility;
-    font-family: 'Inter-Regular';
+    font-family: 'Inter';
+	font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: center;

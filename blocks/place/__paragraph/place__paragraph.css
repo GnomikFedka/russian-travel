@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     width: 484px;
-    font-family: 'Inter-Regular';
+    font-family: 'Inter';
+	font-weight: 400;
     font-size: 18px;
     line-height: 163%;
 }

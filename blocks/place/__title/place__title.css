@@ -1,11 +1,11 @@
 .place__title {
   grid-area: place__title;
   width: 460px;
-  height: auto;
   margin: 0;
   padding: 0;
   text-rendering: optimizeLegibility;
-  font-family: 'Inter-Black';
+  font-family: 'Inter';
+	font-weight: 900;
   font-size: 72px;
   line-height: 76px;
   text-align: left;

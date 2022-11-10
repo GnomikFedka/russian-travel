@@ -2,9 +2,9 @@
     margin: 0 auto 0 auto;
     padding: 0;
     width: 720px;
-    height: 200px;
     text-rendering: optimizeLegibility;
-    font-family: 'Inter-Black';
+    font-family: 'Inter';
+	font-weight: 900;
     font-size: 96px;
     line-height: 100px;
     text-align: center;

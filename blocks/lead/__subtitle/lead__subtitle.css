@@ -2,9 +2,9 @@
     margin: 32px auto 0 auto;
     padding: 0;
     width: 640px;
-    height: 72px;
     text-rendering: optimizeLegibility;
-    font-family: 'Inter-Regular';
+    font-family: 'Inter';
+	font-weight: 400;
     font-size: 30px;
     line-height: 36px;
     text-align: center;

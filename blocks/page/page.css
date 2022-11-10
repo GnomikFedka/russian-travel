@@ -2,10 +2,9 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  background-color: #E5E5E5;
+  background-color: #2A2C2F;
   margin: 0;
   padding: 0;
-  width: cover;
-  height: cover;
+	font-family: 'Inter';
   color: #FFFFFF;
 }
