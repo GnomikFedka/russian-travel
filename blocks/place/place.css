@@ -9,32 +9,31 @@
   grid-template-areas:
     "place__title place__website"
     ". ."
-    "place__image place__paragraph_top"
-    "place__image place__paragraph_bottom";
+    "place__image place__paragraphs"
+    "place__image place__paragraphs";
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1260px) {
   .place {
     column-gap: 32px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1000px) {
   .place {
     column-gap: 28px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 750px) {
   .place {
     grid-template-columns: auto;
-    grid-template-rows: repeat(5, auto);
+    grid-template-rows: repeat(4, auto);
     gap: 32px;
     grid-template-areas:
       "place__title"
       "place__website"
       "place__image "
-      "place__paragraph_top"
-      "place__paragraph_bottom";
+      "place__paragraphs";
   }
 }

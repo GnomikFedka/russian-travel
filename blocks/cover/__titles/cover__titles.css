@@ -1,0 +1,15 @@
+.cover__titles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 740px;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .cover__titles {
+        min-height: 62.5vw;
+    }
+}
