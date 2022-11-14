@@ -5,4 +5,11 @@
   list-style-type: none;
   margin: 0;
   padding: 0;
+  gap: 18px;
+}
+
+@media screen and (min-width: 400px) and (max-width: 800px) {
+  .header__list {
+    gap: 14px;
+  }
 }
